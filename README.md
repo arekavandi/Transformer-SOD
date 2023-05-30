@@ -17,7 +17,7 @@ Detection performance for small-scale objects on MS COCO image dataset (eval). D
 | |
 
 # Citations
-If you found this page helpful, please cite the following survey paper:
+If you found this page helpful, please cite the following survey papers:
 
 @article{rekavandi2022guide,
   title={A Guide to Image and Video based Small Object Detection using Deep Learning: Case Study of Maritime Surveillance},
