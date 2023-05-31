@@ -61,6 +61,55 @@ Detection performance for small-scale objects on MS COCO image dataset (eval). D
 |Group DETR v2-MS-IN-OB~(arXiv2022) | ViT-Huge| --/--|629M| 48.4*|--|-- |
 |**Best Results**|NA|DETR&FP-DETR|Group DETR v2|DINO|NA|
 
+# Small Object Detection in Aerial Images (DOTA) (Last Update: 31/05/2023)
+
+Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
+
+| Model    | Backbone | FPS | #params | mAP  | Epochs | URL |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Rotated Faster RCNN-MS~(NeurIPS2015)  | ResNet101   | --   |64M   | 67.71   | 50   | https://github.com/open-mmlab/mmrotate/tree/main/configs/rotated_faster_rcnn |
+|SSD~(ECCV2016) |-- |-- | --|56.1| --|https://github.com/pierluigiferrari/ssd_keras|
+|RetinaNet-MS~(ICCV2017)| ResNet101| --|59M|66.53|50|https://github.com/DetectionTeamUCAS/RetinaNet_Tensorflow|
+|ROI-Transformer-MS-IN~(CVPR2019) | ResNet50|-- | --|80.06|12 | https://github.com/open-mmlab/mmrotate/blob/main/configs/roi_trans/README.md|
+|Yolov5~(2020)|-- |95| --|64.5| --| https://github.com/ultralytics/yolov5|
+|ReDet-MS-FPN~(CVPR2021)| ResNet50| --|--|80.1|--|https://github.com/csuhan/ReDet|
+|O$^2$DETR-MS~(arXiv2021)| ResNet101|-- | 63M|70.02|50|--|
+|O$^2$DETR-MS-FT~(arXiv2021)| ResNet101|-- | --| 76.23|62|--|
+|O$^2$DETR-MS-FPN-FT~(arXiv2021)| ResNet50|-- | --| 79.66|--|--|
+|SPH-Yolov5~(RS2022) | Swin Transformer-base |51 |-- | 71.6| 150|--|
+|AO2-DETR-MS~(TCSVT2022)| ResNet50| --| --| 79.22|--|https://github.com/Ixiaohuihuihui/AO2-DETR|
+|MDCT~(RS2023)|-- |-- | --|75.7| --| --|
+|ReDet-MS-IN~(arXiv2023)| ViTDet, ViT-B|--|--|80.89|12|https://github.com/csuhan/ReDet|
+|**Best Results**|NA|Yolov5|RetinaNet|ReDet-MS-IN|ReDet-MS-IN|NA|
+
+# Small Object Detection in Medical Images (DeepLesion) (Last Update: 31/05/2023)
+
+Detection performance for DeepLesion CT image dataset.
+
+| Model    | Accuracy |$\text{mAP}^{0.5}$ | 
+| -------- | -------- | --------  |
+|Faster RCNN~(NeurIPS2015)| 83.3 |83.3|
+|Yolov5 |85.2 |88.2|
+|DETR~(ECCV2020)|86.7 |87.8|
+|Swin Transformer| 82.9|81.2|
+|MS Transformer~(CIN2022)|90.3|89.6|
+|**Best Results**|MS Transformer|MS Transformer|
+
+# Small Object Detection in Active Milli-Meter Wave Images (AMWW ) (Last Update: 31/05/2023)
+
+Detection performance for AMWW image dataset. 
+
+| Model    | Bacbone| $\text{mAP}^{0.5}$ | $\text{mAP}^{@[0.5,0.95]}$|
+| -------- | -------- | --------  |--------|
+|Faster RCNN~(NeurIPS2015)|ResNet50 |70.7| 26.83|
+|Cascade RCNN~(CVPR2018)|ResNet50 | 74.7 | 27.8|
+|TridentNet~(ICCV2019) |ResNet50|77.3|29.2|
+|Dynamic RCNN~(ECCV2020) | ResNet50| 76.3| 27.6|
+|Yolov5 |ResNet50 |76.67| 28.48|
+|MATR~(TCSVT2022) | ResNet50| 82.16 | 33.42|
+
+|**Best Results**|NA|MATR|MATR|
+
 # Citations
 If you found this page helpful, please cite the following survey papers:
 
