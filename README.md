@@ -122,6 +122,20 @@ Detection performance for URPC2018 dataset.
 |Yolov3 | 61.5M| 19.4|--|
 |RoIMix~(ICASSP2020) | --|-- |74.92|
 |HTDet~(RS2023) |7.7M|22.8|--|
+|**Best Results**|HTDet|HTDet|RoIMix|
+
+# Small Object Detection in Videos (ImageNet VID) (Last Update: 31/05/2023)
+
+Detection performance for ImageNet VID dataset for small objects. PT: Pre-trained on MS COCO.
+
+| Model    | Backbone |$\text{mAP}^{@[0.5,0.95]}$| 
+| -------- | -------- | --------  |
+|Faster RCNN~(NeurIPS2015)+SELSA| ResNet50| 8.5|
+|Deformable-DETR-PT |ResNet50|10.5|
+|Deformable-DETR+TransVOD-PT|ResNet50|11|
+|DAB-DETR+FAQ-PT|ResNet50|12|
+|Deformable-DETR+FAQ-PT|ResNet50|13.2|
+|**Best Results**|NA|Deformable DET+FAQ|
 # Citations
 If you found this page helpful, please cite the following survey papers:
 
