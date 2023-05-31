@@ -14,7 +14,7 @@ Detection performance for small-scale objects on MS COCO image dataset (eval). D
 | FCOS~(ICCV2019)| ResNet50| 177/17|--|26.2|36|https://github.com/tianzhi0549/FCOS|
 | CBNet V2-DCN~(TIP2022)|Res2Net101 |--/--|107M|35.7*|20|https://github.com/VDIGPKU/CBNetV2|
 | CBNet V2-DCN(Cascade RCNN)~(TIP2022)| Res2Net101|--/--|146M|37.4*|32|https://github.com/VDIGPKU/CBNetV2|
-| |
+| DETR~(ECCV2020)| ResNet50|86/28 | 41M | 20.5|500|https://github.com/facebookresearch/detr|
 
 # Citations
 If you found this page helpful, please cite the following survey papers:
