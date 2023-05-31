@@ -2,7 +2,7 @@
 For adding your transformer-based object detector results to the tables below, please send us an email including the values for each column and a copy of the paper showing your results.
 Email: aref.mirirekavandi@gmail.com
 
-# Generic Applications (MS COCO) (Last Update: 31/05/2023)
+# Generic Applications (MS COCO) (Last Update: 15/06/2023)
 
 Detection performance for small-scale objects on MS COCO image dataset (eval). DC5: Dialated C5 stage, MS: Multi-scale network, IBR: Iterative bounding box refinement, TS: Two-stage detection, DCN: Deformable convnets, TTA: Test time augmentation, BD: Pre-trained on BigDetection dataset, IN: Pre-trained on ImageNet, OB: Pre-trained on Object-365. $*$ shows the results for COCO test-dev.
 
@@ -61,7 +61,7 @@ Detection performance for small-scale objects on MS COCO image dataset (eval). D
 |Group DETR v2-MS-IN-OB~(arXiv2022) | ViT-Huge| --/--|629M| 48.4*|--|-- |
 |**Best Results**|NA|DETR&FP-DETR|Group DETR v2|DINO|NA|
 
-# Small Object Detection in Aerial Images (DOTA) (Last Update: 31/05/2023)
+# Small Object Detection in Aerial Images (DOTA) (Last Update: 15/06/2023)
 
 Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
 
@@ -82,7 +82,7 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 |ReDet-MS-IN~(arXiv2023)| ViTDet, ViT-B|--|--|80.89|12|https://github.com/csuhan/ReDet|
 |**Best Results**|NA|Yolov5|RetinaNet|ReDet-MS-IN|ReDet-MS-IN|NA|
 
-# Small Object Detection in Medical Images (DeepLesion) (Last Update: 31/05/2023)
+# Small Object Detection in Medical Images (DeepLesion) (Last Update: 15/06/2023)
 
 Detection performance for DeepLesion CT image dataset.
 
@@ -95,7 +95,7 @@ Detection performance for DeepLesion CT image dataset.
 |MS Transformer~(CIN2022)|90.3|89.6|
 |**Best Results**|MS Transformer|MS Transformer|
 
-# Small Object Detection in Active Milli-Meter Wave Images (AMWW) (Last Update: 31/05/2023)
+# Small Object Detection in Active Milli-Meter Wave Images (AMWW) (Last Update: 15/06/2023)
 
 Detection performance for AMWW image dataset. 
 
@@ -110,7 +110,7 @@ Detection performance for AMWW image dataset.
 |**Best Results**|NA|MATR|MATR|
 
 
-# Small Object Detection in Underwater Images (URPC2018) (Last Update: 31/05/2023)
+# Small Object Detection in Underwater Images (URPC2018) (Last Update: 15/06/2023)
 
 Detection performance for URPC2018 dataset. 
 
@@ -124,7 +124,7 @@ Detection performance for URPC2018 dataset.
 |HTDet~(RS2023) |7.7M|22.8|--|
 |**Best Results**|HTDet|HTDet|RoIMix|
 
-# Small Object Detection in Videos (ImageNet VID) (Last Update: 31/05/2023)
+# Small Object Detection in Videos (ImageNet VID) (Last Update: 15/06/2023)
 
 Detection performance for ImageNet VID dataset for small objects. PT: Pre-trained on MS COCO.
 
