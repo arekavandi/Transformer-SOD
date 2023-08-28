@@ -142,6 +142,14 @@ If you found this page helpful, please cite the following survey papers:
 
 ```
 @article{rekavandi2022guide,
+  title={Transformers in Small Object Detection: A
+Survey and Benchmark After Four Years of
+Operation in Computer Vision},
+  author={Rekavandi, Aref Miri and Rashidi, Shima and Boussaid, Farid and Jbabdi, Saad and Hoefs, Stephen and Ouyang, Wanli and Bennamoun, Mohammed},
+  journal={arXiv preprint},
+  year={2023}
+}
+@article{rekavandi2022guide,
   title={A Guide to Image and Video based Small Object Detection using Deep Learning: Case Study of Maritime Surveillance},
   author={Rekavandi, Aref Miri and Xu, Lian and Boussaid, Farid and Seghouane, Abd-Krim and Hoefs, Stephen and Bennamoun, Mohammed},
   journal={arXiv preprint arXiv:2207.12926},
