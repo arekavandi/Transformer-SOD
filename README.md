@@ -141,6 +141,13 @@ Detection performance for ImageNet VID dataset for small objects. PT: Pre-traine
 If you found this page helpful, please cite the following survey papers:
 
 ```
+@article{rekavandi2023transformers,
+  title={Transformers in Small Object Detection: A Survey and Benchmark After Four Years of Operation in Computer Vision},
+  author={Rekavandi Miri, Aref and Rashidi, Shima and Boussaid, Farid and Hoefs, Stephen and Akbas, Emre and Ouyang, Wanli and Bennamoun, Mohammed},
+  journal={arXiv preprint arXiv:2309},
+  year={2023}
+}
+
 @article{rekavandi2022guide,
   title={A Guide to Image and Video based Small Object Detection using Deep Learning: Case Study of Maritime Surveillance},
   author={Rekavandi Miri, Aref and Xu, Lian and Boussaid, Farid and Seghouane, Abd-Krim and Hoefs, Stephen and Bennamoun, Mohammed},
