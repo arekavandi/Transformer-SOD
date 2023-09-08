@@ -1,4 +1,4 @@
-# Transformers in Small Object Detection: A Survey and Benchmark After Four Years of Operation in Computer Vision
+# Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art
 **For adding your transformer-based object detector results into the tables below, please send us an email including the values for each column and a copy of the paper showing your results.**
 
 Email: aref.mirirekavandi@gmail.com
