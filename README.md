@@ -142,8 +142,8 @@ If you found this page helpful, please cite the following survey papers:
 
 ```
 @article{rekavandi2023transformers,
-  title={Transformers in Small Object Detection: A Survey and Benchmark After Four Years of Operation in Computer Vision},
-  author={Rekavandi Miri, Aref and Rashidi, Shima and Boussaid, Farid and Hoefs, Stephen and Akbas, Emre and Ouyang, Wanli and Bennamoun, Mohammed},
+  title={Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art},
+  author={Rekavandi Miri, Aref and Rashidi, Shima and Boussaid, Farid and Hoefs, Stephen and Akbas, Emre and Bennamoun, Mohammed},
   journal={arXiv preprint arXiv:2309},
   year={2023}
 }
