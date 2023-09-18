@@ -9,6 +9,9 @@ Email: aref.mirirekavandi@gmail.com
 Taxonomy of small object detection using transformers and popular object detection methods assigned to each category.
 ![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/05becaf3-1931-4c1e-a8eb-b9d8b5f06514)
 
+## Datasets
+
+![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/39e34dc3-079c-4057-a9e7-2a4e56d83900)
 
 
 # Generic Applications (MS COCO) (Last Update: 15/06/2023)
