@@ -146,8 +146,9 @@ Detection performance for ImageNet VID dataset for small objects. PT: Pre-traine
 |Deformable-DETR+FAQ-PT|ResNet50|13.2|
 |**Best Results**|NA|Deformable DET+FAQ|
 
-## Results
-
+## Visual Results
+Detection results on a sample image when zoomed in. First row from the left: Input image, SSD, Faster RCNN, DETR. Second row from the left: ViDT, DETA-OB, DINO, CBNetv2.
+![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/b9151625-a327-4131-94f7-eb654407c0da)
 
 
 
