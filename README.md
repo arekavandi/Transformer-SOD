@@ -10,6 +10,8 @@ Taxonomy of small object detection using transformers and popular object detecti
 ![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/05becaf3-1931-4c1e-a8eb-b9d8b5f06514)
 
 ## Datasets
+![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/6222e065-3ae0-4104-a55e-9abbe9b06978)
+![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/ef8d1312-d92f-4011-b5ef-44c9f4211d54)
 
 ![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/39e34dc3-079c-4057-a9e7-2a4e56d83900)
 
