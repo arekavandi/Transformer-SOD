@@ -5,6 +5,12 @@
 
 Email: aref.mirirekavandi@gmail.com
 
+## Taxonomy
+Taxonomy of small object detection using transformers and popular object detection methods assigned to each category.
+![image](https://github.com/arekavandi/Transformer-SOD/assets/101369948/05becaf3-1931-4c1e-a8eb-b9d8b5f06514)
+
+
+
 # Generic Applications (MS COCO) (Last Update: 15/06/2023)
 
 Detection performance for small-scale objects on MS COCO image dataset (eval). DC5: Dialated C5 stage, MS: Multi-scale network, IBR: Iterative bounding box refinement, TS: Two-stage detection, DCN: Deformable convnets, TTA: Test time augmentation, BD: Pre-trained on BigDetection dataset, IN: Pre-trained on ImageNet, OB: Pre-trained on Object-365. $*$ shows the results for COCO test-dev.
@@ -139,6 +145,12 @@ Detection performance for ImageNet VID dataset for small objects. PT: Pre-traine
 |DAB-DETR+FAQ-PT|ResNet50|12|
 |Deformable-DETR+FAQ-PT|ResNet50|13.2|
 |**Best Results**|NA|Deformable DET+FAQ|
+
+## Results
+
+
+
+
 # Citations
 If you found this page helpful, please cite the following survey papers:
 
