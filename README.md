@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2306.04670-b31b1b.svg)](https://arxiv.org/abs/2309.04902)
+
 # Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art
 **For adding your transformer-based object detector results into the tables below, please send us an email including the values for each column and a copy of the paper showing your results.**
 
