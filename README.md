@@ -73,7 +73,7 @@ Detection performance for small-scale objects on MS COCO image dataset (eval). D
 |CenterNet++-MS~(arXiv2022) | Swin Transformer-large |--/--|--|38.7*|--|https://github.com/Duankaiwen/PyCenterNet|
 |DETA-OB~(arXiv2022)|Swin Transformer-large| --/4.2|--| 46.1*|24|https://github.com/jozhang97/DETA|
 |Group DETR v2-MS-IN-OB~(arXiv2022) | ViT-Huge| --/--|629M| 48.4*|--|-- |
-|**Best Results**|NA|DETR|FP-DETR|Group DETR v2|DINO|NA|
+|**Best Results**|NA|DETR/TOLO|FP-DETR|Group DETR v2|DINO|NA|
 
 # Small Object Detection in Aerial Images (DOTA) (Last Update: 15/06/2023)
 
