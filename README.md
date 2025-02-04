@@ -165,11 +165,5 @@ If you found this page helpful, please cite the following survey papers:
   year={2023}
 }
 
-@article{rekavandi2022guide,
-  title={A Guide to Image and Video based Small Object Detection using Deep Learning: Case Study of Maritime Surveillance},
-  author={Rekavandi Miri, Aref and Xu, Lian and Boussaid, Farid and Seghouane, Abd-Krim and Hoefs, Stephen and Bennamoun, Mohammed},
-  journal={arXiv preprint arXiv:2207.12926},
-  year={2022}
-}
 ```
 
