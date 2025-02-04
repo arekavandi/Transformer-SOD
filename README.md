@@ -155,7 +155,7 @@ Detection results on a sample image when zoomed in. First row from the left: Inp
 
 
 # Citations
-If you found this page helpful, please cite the following survey papers:
+If you found this page helpful, please cite the following survey paper:
 
 ```
 @article{rekavandi2023transformers,
